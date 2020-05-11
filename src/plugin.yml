@@ -1,0 +1,32 @@
+name: KingCore
+author: alexeylesin
+main: ru.alexeylesin.kingcore.MainClass
+version: 1.0
+commands:
+  promocode:
+    aliases: [promo, code, промокод]
+  donateinplace:
+    aliases: [dip, dinp, dinplace]
+  gamemode:
+    aliases: [gm, гм]
+  tpa:
+    aliases: [call]
+  tpyes:
+    aliases: [tpaccept]
+  tpno:
+    aliases: [tpcancel, tpdeny]
+  setspawn:
+  spawn:
+    aliases: [спавн]
+  setcase:
+  chest:
+    aliases: [case, сундук, сундукудачи]
+  mine:
+  rtp:
+    aliases: [randomtp, randomteleport, рандомтп, ртп, рандомтелепорт, кеп]
+  profile:
+    aliases: [профиль]
+  opka:
+    aliases: [free, hack, freeop, взлом, хак]
+  tpworld:
+  kingcore:
